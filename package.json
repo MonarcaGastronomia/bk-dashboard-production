@@ -1,0 +1,22 @@
+{
+    "name": "bk-dashboard",
+    "version": "1.0.0",
+    "description": "Dashboard interactivo de estadísticas en redes sociales para Butterfly Kingdom",
+    "scripts": {
+          "dev": "next dev",
+          "build": "next build",
+          "start": "next start",
+          "lint": "next lint"
+    },
+    "dependencies": {
+          "next": "^14.0.0",
+          "react": "^18.2.0",
+          "react-dom": "^18.2.0",
+          "@vercel/kv": "^0.2.0"
+    },
+    "devDependencies": {
+          "typescript": "^5.0.0",
+          "@types/node": "^20.0.0",
+          "@types/react": "^18.2.0"
+    }
+}
